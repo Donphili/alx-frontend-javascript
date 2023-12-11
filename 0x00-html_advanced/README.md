@@ -1,8 +1,7 @@
 # Advanced HTML - Techium Web Stack
 
-**Author:** Alexander Udeoagranya  
-**Contact:** ogranya.alex@gmail.com  
-**Repository:** [github.com/Dr-dyrane/alx-frontend](https://github.com/Dr-dyrane/alx-frontend)
+**Author:** Adesanya Ibukunoluwa Paul
+**Contact:** ibukunadesanya0@gmail.com 
 
 ## Overview
 
@@ -23,7 +22,6 @@ Welcome to the Advanced HTML project in the Web Stack specialization. This proje
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Dr-dyrane/alx-frontend.git
 ```
 
 ## File Structure
@@ -274,6 +272,5 @@ Copy the content of `1-index.html` into `2-index.html` and:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 **Techium © 2023 | Made with ♥ by ALX Frontend Students**
